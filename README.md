@@ -21,4 +21,5 @@ It's quite simple, isn't it?
 I'm a lonely clown 🤡
 
 <h2>That's my sweetie in a nutshell</h2>
-![screencapture-127-0-0-1-5500-index-html-2024-02-05-02_55_37](https://github.com/batuhanlog/Spor-Center-Web-Site/assets/82649079/50f0cc24-26cc-43ea-ba99-a0775e8d78c7)
+
+![screencapture-127-0-0-1-5500-index-html-2024-02-05-02_55_37](https://github.com/batuhanlog/Spor-Center-Web-Site/assets/82649079/ca3171fe-b688-40f2-a3a3-f548f9336d15)
