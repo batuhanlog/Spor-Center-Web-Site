@@ -42,7 +42,7 @@ body,html {
 
 .hero-section {
   margin: 0;
-  padding: 0;
+  padding: 0px;
   background-color: #f1f8ff;
   position: relative;
   top: -60px;
@@ -219,7 +219,7 @@ body,html {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   max-width: 60%;
   margin: auto;
-  gap: 15px;
+  gap: 5px;
   justify-items: center;
   align-items: center;
   text-align: center;
@@ -559,7 +559,7 @@ body,html {
   text-align: center;
   justify-content: center;
   cursor: pointer;
-  border-radius: 20px;
+  border-radius: 7px;
 }
 
 .card-img img {
